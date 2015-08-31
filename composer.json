@@ -1,0 +1,12 @@
+{
+  "name": "Brevis",
+  "autoload": {
+    "psr-4": {
+      "vlad\\": "core/",
+      "application\\":"src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
